@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 import 'input_page.dart';
 
 void main() => runApp(BMICalculator());
-// 0xff0a0e21
+
 class BMICalculator extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
